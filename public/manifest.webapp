@@ -1,0 +1,26 @@
+{
+	"version": "0.1.0",
+	"name": "kaios-vue-starter",
+	"description": "A template with the bare minimum structure",
+	"launch_path": "/index.html",
+	"icons": {
+		"60": "/icons/icon60x60.png",
+		"128": "/icons/icon128x128.png"
+	},
+	"developer": {
+		"name": "Cyan",
+		"url": "http://cyan-2048.github.io"
+	},
+	"type": "web",
+	"origin": "app://vuejs.bananahackers.net",
+	"permissions": {},
+	"installs_allowed_from": ["*"],
+	"locales": {
+		"es": {
+			"name": "Aplicación vacía privilegiada",
+			"description": "Una plantilla con la mínima estructura",
+			"permissions": {}
+		}
+	},
+	"default_locale": "en"
+}
